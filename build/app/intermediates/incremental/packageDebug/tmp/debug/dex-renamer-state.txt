@@ -1,0 +1,4 @@
+#Tue Aug 20 01:11:20 CST 2019
+base.0=D\:\\Git_Repos\\My-Flutter-Diary\\provider_login\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
